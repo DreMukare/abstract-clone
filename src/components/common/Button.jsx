@@ -1,5 +1,4 @@
 import theme from "../../utils/theme";
-import "./Button.css";
 
 const Button = (props) => {
   const { buttonText, handleClick, variant } = props;
