@@ -5,3 +5,13 @@
   box-sizing: border-box;
   font-family: "Nunito", sans-serif;
 }
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
